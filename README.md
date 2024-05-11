@@ -1,7 +1,7 @@
 ![Screenshot from 2024-05-12 04-35-50](https://github.com/Vikash-8090-Yadav/minimal/assets/85225156/9db102c5-766f-40c7-8c3e-9785e03d718b)
 
 
-## This project is hosted at : 
+## This project is hosted at :  https://minimal-flame.vercel.app/
 
 ## Demo video:  https://youtu.be/i6iXClR0HNk
 
