@@ -20,11 +20,6 @@ https://explorerl2new-live-amber-cougar-9xs8t1or8j.t.conduit.xyz/address/0xD3Dae
 
 
 
-
-All the code for the  Token additon  and nextid can be acessed from here: https://github.com/Vikash-8090-Yadav/Combo/tree/main/Gateway/quasar-contract/scripts
-
-
-
 ## This Application is deployed on presto  Gnosis Testnet Rollup and name of the rollup is: Pythonseed
 
 Smart contract Address: 0x4756954186e83de09525ac9D80b34D44cb634855
