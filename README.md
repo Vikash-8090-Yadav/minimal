@@ -19,17 +19,6 @@ https://explorerl2new-live-amber-cougar-9xs8t1or8j.t.conduit.xyz/address/0xD3Dae
 
 
 
-
-## This Application is deployed on presto  Gnosis Testnet Rollup and name of the rollup is: Pythonseed
-
-Smart contract Address: 0x4756954186e83de09525ac9D80b34D44cb634855
-
-https://pythonseed-blockscout.eu-north-2.gateway.fm/address/0x4756954186e83de09525ac9D80b34D44cb634855
-
-![Screenshot from 2024-04-23 23-06-12](https://github.com/Vikash-8090-Yadav/Combo/assets/85225156/0230d0b9-e4ae-4464-997c-0d4629b5488e)
-
-
-
 # Use of Conduit, Mode L3  and Celestia for DA
 
 ![Screenshot from 2024-05-08 01-40-57](https://github.com/Vikash-8090-Yadav/Celestia-Club/assets/85225156/f081cac7-bfec-4b1a-9a7d-f2c71e8d961f)
